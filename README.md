@@ -1,2 +1,3 @@
-# debkantibarua1979.github.io
-https://mdmosfikurrahman.github.io/resume/Resume_Md-Mosfikur-Rahman.pdf
+# Deb Kanti Barua
+
+Senior Backend Engineer | Team Lead | .NET | Java | Microservices
